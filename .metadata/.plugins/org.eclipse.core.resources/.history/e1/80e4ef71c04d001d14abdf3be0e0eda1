@@ -1,0 +1,12 @@
+package adapter;
+
+public interface Student {
+	
+	HumanAdapter student = null;
+
+	void showName();
+	
+	void showAge();
+	
+	
+}

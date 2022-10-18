@@ -1,0 +1,5 @@
+package builder;
+//Build Pattern : 빌더라고 하는 내부 클래스를 통해서 간접적으로 인스턴스를 생성하게 하는 패턴
+public class Jacket {
+
+}

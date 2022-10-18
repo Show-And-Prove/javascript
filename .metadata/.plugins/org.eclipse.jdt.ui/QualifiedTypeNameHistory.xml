@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="singletone.SingleTon"/>
+<fullyQualifiedTypeName name="bridge.CountDisplay"/>
+<fullyQualifiedTypeName name="bridge.RandomCountDisplay"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="java.lang.Override"/>
+<fullyQualifiedTypeName name="java.util.Iterator"/>
+<fullyQualifiedTypeName name="composite.Directory"/>
+<fullyQualifiedTypeName name="java.lang.StrictMath"/>
+<fullyQualifiedTypeName name="chainOfResponsibility.LimitSupport"/>
+<fullyQualifiedTypeName name="chainOfResponsibility.OddSupport"/>
+</qualifiedTypeNameHistroy>

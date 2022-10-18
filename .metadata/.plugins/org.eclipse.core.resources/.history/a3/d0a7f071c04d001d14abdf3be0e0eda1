@@ -1,0 +1,12 @@
+package adapter;
+//Adapter 
+public class AdapterEx {
+
+	public static void main(String[] args) {
+		
+		Student.stu1 = new HumanAdapter("김기태", 39);
+		stu1.showName();
+		stu1.showAge();
+	}
+
+}
